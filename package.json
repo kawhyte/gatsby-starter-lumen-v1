@@ -77,7 +77,8 @@
     "react": "^16.8.6",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "yarn": "^1.15.2"
   },
   "devDependencies": {
     "@babel/core": "7.0.0",
