@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Kenny Whyte World',
+  title: 'Kenny\'s World',
   subtitle: 'Software Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,14 +25,14 @@ module.exports = {
   author: {
     name: 'Kenny Whyte',
     photo: '/photo.jpg',
-    bio: 'Amateur Astronomer/Weightlifter and Software Developer',
+    bio: 'Software Developer | Amateur Astronomer & Weightlifter',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'kawhyte@gmail.com',
+      //telegram: '#',
+      //twitter: '#',
+      github: 'kawhyte',
+      //rss: '#',
+      //vkontakte: '#'
     }
   }
 };
