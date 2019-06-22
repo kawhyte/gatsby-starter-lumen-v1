@@ -28,11 +28,11 @@ module.exports = {
     bio: 'Software Developer | Amateur Astronomer & Weightlifter',
     contacts: {
       email: 'kawhyte@gmail.com',
-      //telegram: '#',
-      //twitter: '#',
-      github: 'kawhyte'
-      //rss: '#',
-      //vkontakte: '#'
+      telegram: '#',
+      twitter: '#',
+      github: 'kawhyte',
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
