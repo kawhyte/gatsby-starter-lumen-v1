@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Kenny Whyte',
     photo: '/photo.jpg',
-    bio: 'Amateur Astronomer/Weighlifter and Software Developer',
+    bio: 'Amateur Astronomer/Weightlifter and Software Developer',
     contacts: {
       email: '#',
       telegram: '#',
