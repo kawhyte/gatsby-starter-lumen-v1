@@ -2,7 +2,7 @@
 title: Another coding perspective
 date: "2019-08-01T23:46:37.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/another-coding-perspective/"
 category: "Bite-size Geek Out"
 tags:
