@@ -16,6 +16,11 @@ const Menu = ({ menu }) => (
           </Link>
         </li>
       ))}
+
+
+<li class="invalid nav-item"><a href="https://www.kennywhyte.com">Personal Projects</a></li>
+
+
     </ul>
   </nav>
 );

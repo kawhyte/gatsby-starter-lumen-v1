@@ -12,27 +12,27 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
+    }
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // },
+   /*  {
       label: 'Projects',
       path: '/pages/contacts'
-    }
+    } */
   ],
   author: {
     name: 'Kenny Whyte',
     photo: '/photo.jpg',
-    bio: 'Software Developer | Amateur Astronomer & Weightlifter',
+    bio: 'Bite-size lessons I\'ve learned on my Software Developer journey',
     contacts: {
       email: 'kawhyte@gmail.com',
-      telegram: '#',
+      //telegram: '#',
       twitter: '#',
       github: 'kawhyte',
-      rss: '#',
-      vkontakte: '#'
+      //rss: '#',
+      //vkontakte: '#'
     }
   }
 };
