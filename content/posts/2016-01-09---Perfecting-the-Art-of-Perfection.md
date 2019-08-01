@@ -1,19 +1,22 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Another coding perspective
+date: "2019-08-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+slug: "/posts/another-coding-perspective/"
+category: "Bite-size Geek Out"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Apollo 11 Moon Landing"
+  - "Pluralsight"
+  - "50th Anniversary"
+  - "Another coding perspective"
+description: "There is more to life than always looking for the next BIG programming language to learn. If you check the youtube comments of any Software developer channel you will most certainly see - “What new language should I be learning to get a job!??\""
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+There is more to life than always looking for the next BIG programming language to learn. If you check the youtube comments of any Software developer channel you will most certainly see - “What new language should I be learning to get a job!??
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![1969 Moon Landing - Neil Armstrong](/media/Neil-Armstrong.jpg)
+*Photo source: thebellvillestar.com*
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
 

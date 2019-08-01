@@ -2,7 +2,7 @@
 title: The Humane Typography in the Digital Age
 date: "2019-04-14T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/humane-typography-in-the-digital-age/"
 category: "Typography"
 tags:
