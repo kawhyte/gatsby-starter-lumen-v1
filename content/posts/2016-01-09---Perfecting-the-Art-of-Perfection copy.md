@@ -9,7 +9,7 @@ tags:
   - "React.js vs Angular vs Vue.js"
   - "Gang of Four"
   - "Another coding perspective"
-description: "What new language should I be learning? What framework or library is best to learn? Is it React.js or Angular or Vue.js or "who the hell knows”.js. or should I know all of them?" 
+description: "What new language should I be learning? What framework or library is best to learn? Is it React.js or Angular or Vue.js or should I know all of them?" 
 ---
 
 *What new language should I be learning? What framework or library is best to learn? Is it React.js or Angular or Vue.js or "who the hell knows”.js. or should I know all of them?*
