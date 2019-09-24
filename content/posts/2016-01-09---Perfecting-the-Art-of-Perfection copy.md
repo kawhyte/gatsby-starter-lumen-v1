@@ -17,11 +17,10 @@ description: "What new language should I be learning? What framework or library 
 On your software journey, I am sure you will see this debate several times on the internet. If you are new to software development, this question can be very overwhelming. To make matters more complicated, there are many strongly opinionated developers who will quickly tell you why the framework you finally picked after many agonizing hours was wrong and not worth your time.  
 
 ![Maze](/media/react.jpg)
-*Photo source: unsplash.com*
 
 If you can identify with this dilemma, just close your eyes and take a deep breath. Just know that you are not the only Developer stuck in this quagmire. Heck, I was in your shoes a few months ago. I was constantly chasing the new and shiny thing, just to have it fizzle in popularity in a few months. Then I was back at square one. It was frustrating and I also discovered that it was the perfect formula fail.
 
-How did I turn things around? Well, in retrospect, it was obvious but it is hard to see when my mind was clouded.  I’ve discovered that there is more to my Developer life than always looking for the next BIG thing to learn. There will always be something new. The truth is that almost all of these new frameworks are built on the software fundamentals that have been around for over 30 years. If you take a deeper look at the [Gang of Four] (https://en.wikipedia.org/wiki/Design_Patterns) (GOF) and other [patterns] (https://sourcemaking.com/design_patterns) , you may notice that these are the foundation of most of these new fancy frameworks.
+How did I turn things around? Well, in retrospect, it was obvious but it is hard to see when my mind was clouded.  I’ve discovered that there is more to my Developer life than always looking for the next BIG thing to learn. There will always be something new. The truth is that almost all of these new frameworks are built on the software fundamentals that have been around for over 30 years. If you take a deeper look at the [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns) (GOF) and other [patterns](https://sourcemaking.com/design_patterns) , you may notice that these are the foundation of most of these new fancy frameworks.
 
 ![Focus](/media/focus.jpg)
 *Photo source: unsplash.com*
