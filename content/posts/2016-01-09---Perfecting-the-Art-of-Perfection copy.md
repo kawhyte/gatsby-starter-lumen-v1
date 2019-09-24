@@ -14,10 +14,10 @@ description: "What new language should I be learning? What framework or library 
 
 *What new language should I be learning? What framework or library is best to learn? Is it React.js or Angular or Vue.js or "who the hell knows”.js. or should I know all of them?*
 
-![Maze](/media/maze.jpg)
-*Photo source: unsplash.com*
-
 On your software journey, I am sure you will see this debate several times on the internet. If you are new to software development, this question can be very overwhelming. To make matters more complicated, there are many strongly opinionated developers who will quickly tell you why the framework you finally picked after many agonizing hours was wrong and not worth your time.  
+
+![Maze](/media/react.jpg)
+*Photo source: unsplash.com*
 
 If you can identify with this dilemma, just close your eyes and take a deep breath. Just know that you are not the only Developer stuck in this quagmire. Heck, I was in your shoes a few months ago. I was constantly chasing the new and shiny thing, just to have it fizzle in popularity in a few months. Then I was back at square one. It was frustrating and I also discovered that it was the perfect formula fail.
 
